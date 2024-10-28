@@ -2,7 +2,7 @@
 
 ## Overview
 
-DLWMLS uses a trained [nnUNet](https://github.com/MIC-DKFZ/nnUNet) model to compute the segmentation of the brain into [MUSE](https://www.med.upenn.edu/cbica/sbia/muse.html) ROIs from the nifti image of the Intra Cranial Volume (ICV - see [DLICV method](https://github.com/CBICA/DLICV)), oriented in _**LPS**_ orientation. It produces the segmented brain, along with a .csv file of the calculated volumes of each ROI.
+DLWMLS uses a trained [nnUNet](https://github.com/MIC-DKFZ/nnUNet) model to segment White Matter Lesions (WML) from ICV-segmented (see DLICV method) and LPS oriented brain images (Nifti/.nii.gz format).
 
 ## Installation
 
