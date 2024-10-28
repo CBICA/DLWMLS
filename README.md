@@ -1,4 +1,4 @@
-# DLWMLS - Deep Learning MUlti-atlas region Segmentation utilizing Ensembles of registration algorithms and parameters
+# DLWMLS - Deep Learning White Matter Lesion Segmentation
 
 ## Overview
 
