@@ -1,4 +1,6 @@
+
 *.csv
 *.xlsx
 *.nii.gz
 DLWMLS.egg-info/
+DLWMLS/nnunet_raw/
