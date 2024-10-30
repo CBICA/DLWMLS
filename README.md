@@ -23,9 +23,9 @@ Depending on your system configuration and supported CUDA version, you may need 
 
 A pre-trained nnUNet model can be found at our [HuggingFace account](https://huggingface.co/nichart/DLWMLS/tree/main). Feel free to use it under the package's [license](LICENSE).
 
-### From command line
+### From command line (CUDA is recommended)
 ```bash
-DLWMLS -i "input_folder" -o "output_folder" -device cpu
+DLWMLS -i "input_folder" -o "output_folder" -device cuda
 ```
 For more details, please refer to
 
