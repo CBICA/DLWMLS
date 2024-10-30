@@ -1,0 +1,4 @@
+*.csv
+*.xlsx
+*.nii.gz
+DLWMLS.egg-info/
