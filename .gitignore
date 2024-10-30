@@ -3,4 +3,4 @@
 *.xlsx
 *.nii.gz
 DLWMLS.egg-info/
-DLWMLS/nnunet_raw/
+DLWMLS/nnunet_results/
