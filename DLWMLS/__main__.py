@@ -45,7 +45,7 @@ def main() -> None:
         "-i",
         type=str,
         required=True,
-        help="[REQUIRED] Input folder with LPS oriented T1 sMRI Intra Cranial Volumes (ICV) in Nifti format (nii.gz).",
+        help="[REQUIRED] Input folder with LPS oriented FLAIR sMRI Intra Cranial Volumes (ICV) in Nifti format (nii.gz).",
     )
     parser.add_argument(
         "-o",
@@ -120,7 +120,7 @@ def main() -> None:
         "-d",
         type=str,
         required=False,
-        default="903",
+        default="002",
         help="[nnUnet Arg] Dataset with which you would like to predict. You can specify either dataset name or id",
     )
     parser.add_argument(
@@ -258,7 +258,8 @@ def main() -> None:
     model_folder = os.path.join(
         Path(__file__).parent,
         "nnunet_results",
-        "Dataset%s_Task%s_DLWMLSV2/nnUNetTrainer__nnUNetPlans__%s/"
+        "Dataset%s_Dataset%s_dlwmlsICVAll/nnUNetTrainer__nnUNetPlans__%c"
+        # "Dataset%s_Task%s_DLWMLSV2/nnUNetTrainer__nnUNetPlans__%s/"
         % (args.d, args.d, args.c),
     )
 

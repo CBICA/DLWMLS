@@ -1,3 +1,3 @@
-include DLMUSE/VERSION*
+include DLWMLS/VERSION*
 include requirements*
-include DLMUSE/dicts/*
+include DLWMLS/dicts/*

@@ -1,0 +1,2 @@
+[console_scripts]
+DLWMLS = DLWMLS.__main__:main

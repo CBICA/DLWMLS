@@ -1,0 +1,3086 @@
+{
+    "testing": [
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/12431443-20121224_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/12431443-20121224_wml.nii.gz",
+            "new_name": "case_280"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/121180_20160825_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/121180_20160825_wml.nii.gz",
+            "new_name": "case_281"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/BLSA_1366_12-0_10_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/BLSA_1366_12-0_10_wml.nii.gz",
+            "new_name": "case_282"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/Utrecht_21_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/Utrecht_21_wml.nii.gz",
+            "new_name": "case_283"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/100731_20100125_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/100731_20100125_wml.nii.gz",
+            "new_name": "case_284"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/Singapore_69_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/Singapore_69_wml.nii.gz",
+            "new_name": "case_285"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/119669_20150410_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/119669_20150410_wml.nii.gz",
+            "new_name": "case_286"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/118579_20170629_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/118579_20170629_wml.nii.gz",
+            "new_name": "case_287"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/1000244637-20040116_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/1000244637-20040116_wml.nii.gz",
+            "new_name": "case_288"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/126_S_5243_2013-07-16_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/126_S_5243_2013-07-16_wml.nii.gz",
+            "new_name": "case_289"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/0000856702_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/0000856702_wml.nii.gz",
+            "new_name": "case_290"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/130278013-20131001_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/130278013-20131001_wml.nii.gz",
+            "new_name": "case_291"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/104677_20100323_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/104677_20100323_wml.nii.gz",
+            "new_name": "case_292"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/130153113-20121011_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/130153113-20121011_wml.nii.gz",
+            "new_name": "case_293"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/140037314-20140714_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/140037314-20140714_wml.nii.gz",
+            "new_name": "case_294"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/100049_20160621_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/100049_20160621_wml.nii.gz",
+            "new_name": "case_295"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/109707_20110207_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/109707_20110207_wml.nii.gz",
+            "new_name": "case_296"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/150006915-20120208_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/150006915-20120208_wml.nii.gz",
+            "new_name": "case_297"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/Singapore_53_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/Singapore_53_wml.nii.gz",
+            "new_name": "case_298"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/Amsterdam_GE3T_132_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/Amsterdam_GE3T_132_wml.nii.gz",
+            "new_name": "case_299"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/BLSA_1090_17-0_10_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/BLSA_1090_17-0_10_wml.nii.gz",
+            "new_name": "case_300"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/0000848778_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/0000848778_wml.nii.gz",
+            "new_name": "case_301"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/BLSA_1104_12-0_10_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/BLSA_1104_12-0_10_wml.nii.gz",
+            "new_name": "case_302"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/C0759_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/C0759_wml.nii.gz",
+            "new_name": "case_303"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/094_S_4503_2012-02-22_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/094_S_4503_2012-02-22_wml.nii.gz",
+            "new_name": "case_304"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/Amsterdam_GE3T_110_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/Amsterdam_GE3T_110_wml.nii.gz",
+            "new_name": "case_305"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/3-0178-20110127_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/3-0178-20110127_wml.nii.gz",
+            "new_name": "case_306"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/11476680-20120622_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/11476680-20120622_wml.nii.gz",
+            "new_name": "case_307"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/1-0965-20110721_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/1-0965-20110721_wml.nii.gz",
+            "new_name": "case_308"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/0000903341_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/0000903341_wml.nii.gz",
+            "new_name": "case_309"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/C0588_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/C0588_wml.nii.gz",
+            "new_name": "case_310"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/0000815779_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/0000815779_wml.nii.gz",
+            "new_name": "case_311"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/105470_20120726_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/105470_20120726_wml.nii.gz",
+            "new_name": "case_312"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/013_S_4791_2012-09-26_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/013_S_4791_2012-09-26_wml.nii.gz",
+            "new_name": "case_313"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/Utrecht_27_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/Utrecht_27_wml.nii.gz",
+            "new_name": "case_314"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/ANC-12659037-20130404_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/ANC-12659037-20130404_wml.nii.gz",
+            "new_name": "case_315"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/C0717_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/C0717_wml.nii.gz",
+            "new_name": "case_316"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/BLSA_1732_04-0_10_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/BLSA_1732_04-0_10_wml.nii.gz",
+            "new_name": "case_317"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/3-1075-20110517_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/3-1075-20110517_wml.nii.gz",
+            "new_name": "case_318"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/C0697_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/C0697_wml.nii.gz",
+            "new_name": "case_319"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/Utrecht_33_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/Utrecht_33_wml.nii.gz",
+            "new_name": "case_320"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/1000236642-20040107_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/1000236642-20040107_wml.nii.gz",
+            "new_name": "case_321"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/150033715-20120718_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/150033715-20120718_wml.nii.gz",
+            "new_name": "case_322"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/3-0583-20110212_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/3-0583-20110212_wml.nii.gz",
+            "new_name": "case_323"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/3-0078-20101222_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/3-0078-20101222_wml.nii.gz",
+            "new_name": "case_324"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/009_S_0842_2011-10-24_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/009_S_0842_2011-10-24_wml.nii.gz",
+            "new_name": "case_325"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/4818825-20050622_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/4818825-20050622_wml.nii.gz",
+            "new_name": "case_326"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/1000146216-20050504_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/1000146216-20050504_wml.nii.gz",
+            "new_name": "case_327"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/1-1006-20110815_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/1-1006-20110815_wml.nii.gz",
+            "new_name": "case_328"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/Singapore_64_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/Singapore_64_wml.nii.gz",
+            "new_name": "case_329"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/Utrecht_49_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/Utrecht_49_wml.nii.gz",
+            "new_name": "case_330"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/ANC-11287284-20120926_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/ANC-11287284-20120926_wml.nii.gz",
+            "new_name": "case_331"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/0000870632_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/0000870632_wml.nii.gz",
+            "new_name": "case_332"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/0000815167_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/0000815167_wml.nii.gz",
+            "new_name": "case_333"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/BLSA_5972_06-0_10_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/BLSA_5972_06-0_10_wml.nii.gz",
+            "new_name": "case_334"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/100437_20170223_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/100437_20170223_wml.nii.gz",
+            "new_name": "case_335"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/4317699-20050906_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/4317699-20050906_wml.nii.gz",
+            "new_name": "case_336"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/BLSA_0649_06-0_10_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/BLSA_0649_06-0_10_wml.nii.gz",
+            "new_name": "case_337"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/11683120-20120621_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/11683120-20120621_wml.nii.gz",
+            "new_name": "case_338"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/0000860756_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/0000860756_wml.nii.gz",
+            "new_name": "case_339"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/Utrecht_8_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/Utrecht_8_wml.nii.gz",
+            "new_name": "case_340"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/C0617_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/C0617_wml.nii.gz",
+            "new_name": "case_341"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/122110_20170804_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/122110_20170804_wml.nii.gz",
+            "new_name": "case_342"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/1000233007-20040106_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/1000233007-20040106_wml.nii.gz",
+            "new_name": "case_343"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/Amsterdam_GE3T_126_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/Amsterdam_GE3T_126_wml.nii.gz",
+            "new_name": "case_344"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/3-0232-20110528_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/3-0232-20110528_wml.nii.gz",
+            "new_name": "case_345"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/4-0243-20110823_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/4-0243-20110823_wml.nii.gz",
+            "new_name": "case_346"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/Utrecht_17_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/Utrecht_17_wml.nii.gz",
+            "new_name": "case_347"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/150056615-20121119_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/150056615-20121119_wml.nii.gz",
+            "new_name": "case_348"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/C1171_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/C1171_wml.nii.gz",
+            "new_name": "case_349"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/11291-20110331_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/11291-20110331_wml.nii.gz",
+            "new_name": "case_350"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/0000871793_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/0000871793_wml.nii.gz",
+            "new_name": "case_351"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/1000218913-20041207_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/1000218913-20041207_wml.nii.gz",
+            "new_name": "case_352"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/C0950_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/C0950_wml.nii.gz",
+            "new_name": "case_353"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/Utrecht_25_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/Utrecht_25_wml.nii.gz",
+            "new_name": "case_354"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/117279_20120720_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/117279_20120720_wml.nii.gz",
+            "new_name": "case_355"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/Amsterdam_GE3T_101_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/Amsterdam_GE3T_101_wml.nii.gz",
+            "new_name": "case_356"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/117299_20161117_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/117299_20161117_wml.nii.gz",
+            "new_name": "case_357"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/131_S_0123_2012-03-16_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/131_S_0123_2012-03-16_wml.nii.gz",
+            "new_name": "case_358"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/10801-20110413_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/10801-20110413_wml.nii.gz",
+            "new_name": "case_359"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/4317868-20050315_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/4317868-20050315_wml.nii.gz",
+            "new_name": "case_360"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/Utrecht_39_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/Utrecht_39_wml.nii.gz",
+            "new_name": "case_361"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/019_S_4367_2011-11-30_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/019_S_4367_2011-11-30_wml.nii.gz",
+            "new_name": "case_362"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/3-1494-20110329_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/3-1494-20110329_wml.nii.gz",
+            "new_name": "case_363"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/10226605-20110706_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/10226605-20110706_wml.nii.gz",
+            "new_name": "case_364"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/0000903552_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/0000903552_wml.nii.gz",
+            "new_name": "case_365"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/2817791-20050516_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/2817791-20050516_wml.nii.gz",
+            "new_name": "case_366"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/Singapore_55_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/Singapore_55_wml.nii.gz",
+            "new_name": "case_367"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/101366_20161013_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/101366_20161013_wml.nii.gz",
+            "new_name": "case_368"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/103486_20100929_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/103486_20100929_wml.nii.gz",
+            "new_name": "case_369"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/053_S_0919_2013-01-04_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/053_S_0919_2013-01-04_wml.nii.gz",
+            "new_name": "case_370"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/Utrecht_0_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/Utrecht_0_wml.nii.gz",
+            "new_name": "case_371"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/150010815-20120620_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/150010815-20120620_wml.nii.gz",
+            "new_name": "case_372"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/150027115-20121116_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/150027115-20121116_wml.nii.gz",
+            "new_name": "case_373"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/2518272-20050324_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/2518272-20050324_wml.nii.gz",
+            "new_name": "case_374"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/4215786-20050714_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/4215786-20050714_wml.nii.gz",
+            "new_name": "case_375"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/Singapore_68_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/Singapore_68_wml.nii.gz",
+            "new_name": "case_376"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/1000425660-20040311_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/1000425660-20040311_wml.nii.gz",
+            "new_name": "case_377"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/0000816079_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/0000816079_wml.nii.gz",
+            "new_name": "case_378"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/1000148003-20040109_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/1000148003-20040109_wml.nii.gz",
+            "new_name": "case_379"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/C0669_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/C0669_wml.nii.gz",
+            "new_name": "case_380"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/1-1327-20110627_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/1-1327-20110627_wml.nii.gz",
+            "new_name": "case_381"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/068_S_2171_2011-12-20_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/068_S_2171_2011-12-20_wml.nii.gz",
+            "new_name": "case_382"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/2518931-20051213_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/2518931-20051213_wml.nii.gz",
+            "new_name": "case_383"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/C1161_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/C1161_wml.nii.gz",
+            "new_name": "case_384"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/0000816415_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/0000816415_wml.nii.gz",
+            "new_name": "case_385"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/141_S_2333_2012-04-28_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/141_S_2333_2012-04-28_wml.nii.gz",
+            "new_name": "case_386"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/1000143411-20040123_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/1000143411-20040123_wml.nii.gz",
+            "new_name": "case_387"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/120227_20150812_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/120227_20150812_wml.nii.gz",
+            "new_name": "case_388"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/C0681_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/C0681_wml.nii.gz",
+            "new_name": "case_389"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/Singapore_60_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/Singapore_60_wml.nii.gz",
+            "new_name": "case_390"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/Amsterdam_GE3T_113_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/Amsterdam_GE3T_113_wml.nii.gz",
+            "new_name": "case_391"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/140182214-20130501_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/140182214-20130501_wml.nii.gz",
+            "new_name": "case_392"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/C1053_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/C1053_wml.nii.gz",
+            "new_name": "case_393"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/073_S_5227_2013-06-17_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/073_S_5227_2013-06-17_wml.nii.gz",
+            "new_name": "case_394"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/Singapore_57_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/Singapore_57_wml.nii.gz",
+            "new_name": "case_395"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/Utrecht_4_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/Utrecht_4_wml.nii.gz",
+            "new_name": "case_396"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/027_S_5170_2013-05-23_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/027_S_5170_2013-05-23_wml.nii.gz",
+            "new_name": "case_397"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/11383917-20120409_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/11383917-20120409_wml.nii.gz",
+            "new_name": "case_398"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/Singapore_54_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/Singapore_54_wml.nii.gz",
+            "new_name": "case_399"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/3-1101-20110819_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/3-1101-20110819_wml.nii.gz",
+            "new_name": "case_400"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/BLSA_7841_01-0_10_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/BLSA_7841_01-0_10_wml.nii.gz",
+            "new_name": "case_401"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/3018365-20050823_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/3018365-20050823_wml.nii.gz",
+            "new_name": "case_402"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/100113_20160620_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/100113_20160620_wml.nii.gz",
+            "new_name": "case_403"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/0000816620_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/0000816620_wml.nii.gz",
+            "new_name": "case_404"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/4312978-20050707_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/4312978-20050707_wml.nii.gz",
+            "new_name": "case_405"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/Utrecht_29_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/Utrecht_29_wml.nii.gz",
+            "new_name": "case_406"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/Amsterdam_GE3T_116_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/Amsterdam_GE3T_116_wml.nii.gz",
+            "new_name": "case_407"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/140212714-20140305_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/140212714-20140305_wml.nii.gz",
+            "new_name": "case_408"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/11241-20110331_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/11241-20110331_wml.nii.gz",
+            "new_name": "case_409"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/Amsterdam_GE3T_102_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/Amsterdam_GE3T_102_wml.nii.gz",
+            "new_name": "case_410"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/C1203_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/C1203_wml.nii.gz",
+            "new_name": "case_411"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/118788_20140602_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/118788_20140602_wml.nii.gz",
+            "new_name": "case_412"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/118440_20161208_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/118440_20161208_wml.nii.gz",
+            "new_name": "case_413"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/Utrecht_6_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/Utrecht_6_wml.nii.gz",
+            "new_name": "case_414"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/Amsterdam_GE3T_107_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/Amsterdam_GE3T_107_wml.nii.gz",
+            "new_name": "case_415"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/ANC_12631965-20130405_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/ANC_12631965-20130405_wml.nii.gz",
+            "new_name": "case_416"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/Amsterdam_GE3T_105_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/Amsterdam_GE3T_105_wml.nii.gz",
+            "new_name": "case_417"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/Utrecht_23_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/Utrecht_23_wml.nii.gz",
+            "new_name": "case_418"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/1000146188-20040820_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/1000146188-20040820_wml.nii.gz",
+            "new_name": "case_419"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/Singapore_56_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/Singapore_56_wml.nii.gz",
+            "new_name": "case_420"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/BLSA_4666_01-0_10_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/BLSA_4666_01-0_10_wml.nii.gz",
+            "new_name": "case_421"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/Amsterdam_GE3T_137_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/Amsterdam_GE3T_137_wml.nii.gz",
+            "new_name": "case_422"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/150111815-20130820_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/150111815-20130820_wml.nii.gz",
+            "new_name": "case_423"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/0000839875_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/0000839875_wml.nii.gz",
+            "new_name": "case_424"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/118743_20170323_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/118743_20170323_wml.nii.gz",
+            "new_name": "case_425"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/Utrecht_35_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/Utrecht_35_wml.nii.gz",
+            "new_name": "case_426"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/150132815-20140422_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/150132815-20140422_wml.nii.gz",
+            "new_name": "case_427"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/041_S_4143_2011-07-28_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/041_S_4143_2011-07-28_wml.nii.gz",
+            "new_name": "case_428"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/ANC-11496606-20120606_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/ANC-11496606-20120606_wml.nii.gz",
+            "new_name": "case_429"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/BLSA_1843_04-0_10_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/BLSA_1843_04-0_10_wml.nii.gz",
+            "new_name": "case_430"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/1000335590-20050607_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/1000335590-20050607_wml.nii.gz",
+            "new_name": "case_431"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/Singapore_61_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/Singapore_61_wml.nii.gz",
+            "new_name": "case_432"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/C0875_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/C0875_wml.nii.gz",
+            "new_name": "case_433"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/4-0244-20110823_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/4-0244-20110823_wml.nii.gz",
+            "new_name": "case_434"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/027_S_5118_2013-03-29_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/027_S_5118_2013-03-29_wml.nii.gz",
+            "new_name": "case_435"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/4215195-20060310_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/4215195-20060310_wml.nii.gz",
+            "new_name": "case_436"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/Utrecht_31_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/Utrecht_31_wml.nii.gz",
+            "new_name": "case_437"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/4317911-20050601_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/4317911-20050601_wml.nii.gz",
+            "new_name": "case_438"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/120937_20160711_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/120937_20160711_wml.nii.gz",
+            "new_name": "case_439"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/130216413-20130222_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/130216413-20130222_wml.nii.gz",
+            "new_name": "case_440"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/130126213-20121130_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/130126213-20121130_wml.nii.gz",
+            "new_name": "case_441"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/C0735_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/C0735_wml.nii.gz",
+            "new_name": "case_442"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/Singapore_59_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/Singapore_59_wml.nii.gz",
+            "new_name": "case_443"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/0000853883_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/0000853883_wml.nii.gz",
+            "new_name": "case_444"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/BLSA_1653_09-0_10_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/BLSA_1653_09-0_10_wml.nii.gz",
+            "new_name": "case_445"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/BLSA_6191_04-0_10_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/BLSA_6191_04-0_10_wml.nii.gz",
+            "new_name": "case_446"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/Utrecht_11_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/Utrecht_11_wml.nii.gz",
+            "new_name": "case_447"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/C0734_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/C0734_wml.nii.gz",
+            "new_name": "case_448"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/4314777-20050330_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/4314777-20050330_wml.nii.gz",
+            "new_name": "case_449"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/BLSA_7830_01-0_10_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/BLSA_7830_01-0_10_wml.nii.gz",
+            "new_name": "case_450"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/0000816848_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/0000816848_wml.nii.gz",
+            "new_name": "case_451"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/137_S_4862_2013-07-22_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/137_S_4862_2013-07-22_wml.nii.gz",
+            "new_name": "case_452"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/022_S_4922_2012-09-25_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/022_S_4922_2012-09-25_wml.nii.gz",
+            "new_name": "case_453"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/Amsterdam_GE3T_144_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/Amsterdam_GE3T_144_wml.nii.gz",
+            "new_name": "case_454"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/2913891-20050303_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/2913891-20050303_wml.nii.gz",
+            "new_name": "case_455"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/112517_20101108_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/112517_20101108_wml.nii.gz",
+            "new_name": "case_456"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/ANC-12567930-20130401_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/ANC-12567930-20130401_wml.nii.gz",
+            "new_name": "case_457"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/Amsterdam_GE3T_106_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/Amsterdam_GE3T_106_wml.nii.gz",
+            "new_name": "case_458"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/ANC-11861401-6472-20120910_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/ANC-11861401-6472-20120910_wml.nii.gz",
+            "new_name": "case_459"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/Singapore_50_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/Singapore_50_wml.nii.gz",
+            "new_name": "case_460"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/119298_20160620_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/119298_20160620_wml.nii.gz",
+            "new_name": "case_461"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/0000815778_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/0000815778_wml.nii.gz",
+            "new_name": "case_462"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/ANC11945931-20130502_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/ANC11945931-20130502_wml.nii.gz",
+            "new_name": "case_463"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/1000445447-20041018_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/1000445447-20041018_wml.nii.gz",
+            "new_name": "case_464"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/130217213-20130723_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/130217213-20130723_wml.nii.gz",
+            "new_name": "case_465"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/BLSA_7675_01-0_10_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/BLSA_7675_01-0_10_wml.nii.gz",
+            "new_name": "case_466"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/Singapore_62_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/Singapore_62_wml.nii.gz",
+            "new_name": "case_467"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/C1121_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/C1121_wml.nii.gz",
+            "new_name": "case_468"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/1000337366-20041216_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/1000337366-20041216_wml.nii.gz",
+            "new_name": "case_469"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/4-1233-20110128_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/4-1233-20110128_wml.nii.gz",
+            "new_name": "case_470"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/121279_20161003_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/121279_20161003_wml.nii.gz",
+            "new_name": "case_471"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/Amsterdam_GE3T_115_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/Amsterdam_GE3T_115_wml.nii.gz",
+            "new_name": "case_472"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/4314748-20050407_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/4314748-20050407_wml.nii.gz",
+            "new_name": "case_473"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/140002414-20130607_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/140002414-20130607_wml.nii.gz",
+            "new_name": "case_474"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/130073413-20120309_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/130073413-20120309_wml.nii.gz",
+            "new_name": "case_475"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/120675_20161104_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/120675_20161104_wml.nii.gz",
+            "new_name": "case_476"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/30255-20101115_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/30255-20101115_wml.nii.gz",
+            "new_name": "case_477"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/Utrecht_2_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/Utrecht_2_wml.nii.gz",
+            "new_name": "case_478"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/Singapore_67_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/Singapore_67_wml.nii.gz",
+            "new_name": "case_479"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/119473_20170105_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/119473_20170105_wml.nii.gz",
+            "new_name": "case_480"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/Amsterdam_GE3T_103_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/Amsterdam_GE3T_103_wml.nii.gz",
+            "new_name": "case_481"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/BLSA_1210_17-0_10_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/BLSA_1210_17-0_10_wml.nii.gz",
+            "new_name": "case_482"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/ANC-12510904-20130311_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/ANC-12510904-20130311_wml.nii.gz",
+            "new_name": "case_483"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/140145514-20121218_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/140145514-20121218_wml.nii.gz",
+            "new_name": "case_484"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/BLSA_5848_06-0_10_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/BLSA_5848_06-0_10_wml.nii.gz",
+            "new_name": "case_485"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/2817761-20050503_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/2817761-20050503_wml.nii.gz",
+            "new_name": "case_486"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/Singapore_52_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/Singapore_52_wml.nii.gz",
+            "new_name": "case_487"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/121899_20170725_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/121899_20170725_wml.nii.gz",
+            "new_name": "case_488"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/114941_20100218_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/114941_20100218_wml.nii.gz",
+            "new_name": "case_489"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/027_S_5079_2013-02-12_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/027_S_5079_2013-02-12_wml.nii.gz",
+            "new_name": "case_490"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/Singapore_65_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/Singapore_65_wml.nii.gz",
+            "new_name": "case_491"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/3-0709-20110408_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/3-0709-20110408_wml.nii.gz",
+            "new_name": "case_492"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/Utrecht_19_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/Utrecht_19_wml.nii.gz",
+            "new_name": "case_493"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/118601_20170509_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/118601_20170509_wml.nii.gz",
+            "new_name": "case_494"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/C0910_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/C0910_wml.nii.gz",
+            "new_name": "case_495"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/C0653_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/C0653_wml.nii.gz",
+            "new_name": "case_496"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/Singapore_63_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/Singapore_63_wml.nii.gz",
+            "new_name": "case_497"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/029_S_4307_2011-11-17_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/029_S_4307_2011-11-17_wml.nii.gz",
+            "new_name": "case_498"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/3019212-20050811_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/3019212-20050811_wml.nii.gz",
+            "new_name": "case_499"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/119427_20170330_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/119427_20170330_wml.nii.gz",
+            "new_name": "case_500"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/0000881759_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/0000881759_wml.nii.gz",
+            "new_name": "case_501"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/117315_20150723_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/117315_20150723_wml.nii.gz",
+            "new_name": "case_502"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/BLSA_5123_12-0_10_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/BLSA_5123_12-0_10_wml.nii.gz",
+            "new_name": "case_503"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/107287_20161028_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/107287_20161028_wml.nii.gz",
+            "new_name": "case_504"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/Amsterdam_GE3T_114_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/Amsterdam_GE3T_114_wml.nii.gz",
+            "new_name": "case_505"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/5012946-20050504_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/5012946-20050504_wml.nii.gz",
+            "new_name": "case_506"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/ANC-12051535-3372-20130917_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/ANC-12051535-3372-20130917_wml.nii.gz",
+            "new_name": "case_507"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/10690-20110415_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/10690-20110415_wml.nii.gz",
+            "new_name": "case_508"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/100853_20110729_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/100853_20110729_wml.nii.gz",
+            "new_name": "case_509"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/0000883667_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/0000883667_wml.nii.gz",
+            "new_name": "case_510"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/117192_20120622_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/117192_20120622_wml.nii.gz",
+            "new_name": "case_511"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/BLSA_6023_10-0_10_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/BLSA_6023_10-0_10_wml.nii.gz",
+            "new_name": "case_512"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/anc125214343954-20130408_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/anc125214343954-20130408_wml.nii.gz",
+            "new_name": "case_513"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/Singapore_51_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/Singapore_51_wml.nii.gz",
+            "new_name": "case_514"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/1000346188-20040116_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/1000346188-20040116_wml.nii.gz",
+            "new_name": "case_515"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/068_S_2315_2012-04-23_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/068_S_2315_2012-04-23_wml.nii.gz",
+            "new_name": "case_516"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/1000144348-20051108_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/1000144348-20051108_wml.nii.gz",
+            "new_name": "case_517"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/1000144299-20040114_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/1000144299-20040114_wml.nii.gz",
+            "new_name": "case_518"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/Singapore_66_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/Singapore_66_wml.nii.gz",
+            "new_name": "case_519"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/ANC-12527203-20130416_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/ANC-12527203-20130416_wml.nii.gz",
+            "new_name": "case_520"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/118358_20131114_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/118358_20131114_wml.nii.gz",
+            "new_name": "case_521"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/2519061-20060130_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/2519061-20060130_wml.nii.gz",
+            "new_name": "case_522"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/1000159804-20030326_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/1000159804-20030326_wml.nii.gz",
+            "new_name": "case_523"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/C0952_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/C0952_wml.nii.gz",
+            "new_name": "case_524"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/Amsterdam_GE3T_112_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/Amsterdam_GE3T_112_wml.nii.gz",
+            "new_name": "case_525"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/Amsterdam_GE3T_109_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/Amsterdam_GE3T_109_wml.nii.gz",
+            "new_name": "case_526"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/3-0199-20110808_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/3-0199-20110808_wml.nii.gz",
+            "new_name": "case_527"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/0000839871_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/0000839871_wml.nii.gz",
+            "new_name": "case_528"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/11138602-20111228_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/11138602-20111228_wml.nii.gz",
+            "new_name": "case_529"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/072_S_2164_2011-12-05_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/072_S_2164_2011-12-05_wml.nii.gz",
+            "new_name": "case_530"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/Singapore_58_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/Singapore_58_wml.nii.gz",
+            "new_name": "case_531"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/003_S_4839_2012-07-24_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/003_S_4839_2012-07-24_wml.nii.gz",
+            "new_name": "case_532"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/1000341986-20021001_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/1000341986-20021001_wml.nii.gz",
+            "new_name": "case_533"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/ANC-12051454-3372-20130604_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/ANC-12051454-3372-20130604_wml.nii.gz",
+            "new_name": "case_534"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/118349_20170105_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/118349_20170105_wml.nii.gz",
+            "new_name": "case_535"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/ANC-12608475-20130401_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/ANC-12608475-20130401_wml.nii.gz",
+            "new_name": "case_536"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/Amsterdam_GE3T_104_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/Amsterdam_GE3T_104_wml.nii.gz",
+            "new_name": "case_537"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/113870_20160711_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/113870_20160711_wml.nii.gz",
+            "new_name": "case_538"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/2522031-20051219_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/2522031-20051219_wml.nii.gz",
+            "new_name": "case_539"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/11567643-20120612_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/11567643-20120612_wml.nii.gz",
+            "new_name": "case_540"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/100836_20170216_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/100836_20170216_wml.nii.gz",
+            "new_name": "case_541"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/Amsterdam_GE3T_108_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/Amsterdam_GE3T_108_wml.nii.gz",
+            "new_name": "case_542"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/1000365650-20040615_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/1000365650-20040615_wml.nii.gz",
+            "new_name": "case_543"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/BLSA_0749_18-0_10_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/BLSA_0749_18-0_10_wml.nii.gz",
+            "new_name": "case_544"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/119035_20161110_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/119035_20161110_wml.nii.gz",
+            "new_name": "case_545"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/120516_20160616_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/120516_20160616_wml.nii.gz",
+            "new_name": "case_546"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/Utrecht_41_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/Utrecht_41_wml.nii.gz",
+            "new_name": "case_547"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/Utrecht_37_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/Utrecht_37_wml.nii.gz",
+            "new_name": "case_548"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/4816765-20050823_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/4816765-20050823_wml.nii.gz",
+            "new_name": "case_549"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/C1066_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/C1066_wml.nii.gz",
+            "new_name": "case_550"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/BLSA_5486_09-0_10_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/BLSA_5486_09-0_10_wml.nii.gz",
+            "new_name": "case_551"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/0000835230_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/0000835230_wml.nii.gz",
+            "new_name": "case_552"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/130136613-20121119_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/130136613-20121119_wml.nii.gz",
+            "new_name": "case_553"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/BLSA_4888_01-0_10_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/BLSA_4888_01-0_10_wml.nii.gz",
+            "new_name": "case_554"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/1000165176-20040223_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/1000165176-20040223_wml.nii.gz",
+            "new_name": "case_555"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/1000341956-20021104_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/1000341956-20021104_wml.nii.gz",
+            "new_name": "case_556"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/Amsterdam_GE3T_100_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/Amsterdam_GE3T_100_wml.nii.gz",
+            "new_name": "case_557"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/150046515-20130918_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/150046515-20130918_wml.nii.gz",
+            "new_name": "case_558"
+        },
+        {
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/119152_20161013_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/119152_20161013_wml.nii.gz",
+            "new_name": "case_559"
+        }
+    ],
+    "training": [
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/12431443-20121224_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/12431443-20121224_wml.nii.gz",
+            "new_name": "case_0"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/121180_20160825_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/121180_20160825_wml.nii.gz",
+            "new_name": "case_1"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/BLSA_1366_12-0_10_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/BLSA_1366_12-0_10_wml.nii.gz",
+            "new_name": "case_2"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/Utrecht_21_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/Utrecht_21_wml.nii.gz",
+            "new_name": "case_3"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/100731_20100125_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/100731_20100125_wml.nii.gz",
+            "new_name": "case_4"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/Singapore_69_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/Singapore_69_wml.nii.gz",
+            "new_name": "case_5"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/119669_20150410_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/119669_20150410_wml.nii.gz",
+            "new_name": "case_6"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/118579_20170629_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/118579_20170629_wml.nii.gz",
+            "new_name": "case_7"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/1000244637-20040116_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/1000244637-20040116_wml.nii.gz",
+            "new_name": "case_8"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/126_S_5243_2013-07-16_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/126_S_5243_2013-07-16_wml.nii.gz",
+            "new_name": "case_9"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/0000856702_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/0000856702_wml.nii.gz",
+            "new_name": "case_10"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/130278013-20131001_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/130278013-20131001_wml.nii.gz",
+            "new_name": "case_11"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/104677_20100323_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/104677_20100323_wml.nii.gz",
+            "new_name": "case_12"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/130153113-20121011_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/130153113-20121011_wml.nii.gz",
+            "new_name": "case_13"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/140037314-20140714_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/140037314-20140714_wml.nii.gz",
+            "new_name": "case_14"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/100049_20160621_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/100049_20160621_wml.nii.gz",
+            "new_name": "case_15"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/109707_20110207_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/109707_20110207_wml.nii.gz",
+            "new_name": "case_16"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/150006915-20120208_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/150006915-20120208_wml.nii.gz",
+            "new_name": "case_17"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/Singapore_53_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/Singapore_53_wml.nii.gz",
+            "new_name": "case_18"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/Amsterdam_GE3T_132_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/Amsterdam_GE3T_132_wml.nii.gz",
+            "new_name": "case_19"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/BLSA_1090_17-0_10_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/BLSA_1090_17-0_10_wml.nii.gz",
+            "new_name": "case_20"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/0000848778_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/0000848778_wml.nii.gz",
+            "new_name": "case_21"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/BLSA_1104_12-0_10_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/BLSA_1104_12-0_10_wml.nii.gz",
+            "new_name": "case_22"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/C0759_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/C0759_wml.nii.gz",
+            "new_name": "case_23"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/094_S_4503_2012-02-22_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/094_S_4503_2012-02-22_wml.nii.gz",
+            "new_name": "case_24"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/Amsterdam_GE3T_110_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/Amsterdam_GE3T_110_wml.nii.gz",
+            "new_name": "case_25"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/3-0178-20110127_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/3-0178-20110127_wml.nii.gz",
+            "new_name": "case_26"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/11476680-20120622_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/11476680-20120622_wml.nii.gz",
+            "new_name": "case_27"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/1-0965-20110721_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/1-0965-20110721_wml.nii.gz",
+            "new_name": "case_28"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/0000903341_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/0000903341_wml.nii.gz",
+            "new_name": "case_29"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/C0588_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/C0588_wml.nii.gz",
+            "new_name": "case_30"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/0000815779_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/0000815779_wml.nii.gz",
+            "new_name": "case_31"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/105470_20120726_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/105470_20120726_wml.nii.gz",
+            "new_name": "case_32"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/013_S_4791_2012-09-26_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/013_S_4791_2012-09-26_wml.nii.gz",
+            "new_name": "case_33"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/Utrecht_27_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/Utrecht_27_wml.nii.gz",
+            "new_name": "case_34"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/ANC-12659037-20130404_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/ANC-12659037-20130404_wml.nii.gz",
+            "new_name": "case_35"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/C0717_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/C0717_wml.nii.gz",
+            "new_name": "case_36"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/BLSA_1732_04-0_10_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/BLSA_1732_04-0_10_wml.nii.gz",
+            "new_name": "case_37"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/3-1075-20110517_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/3-1075-20110517_wml.nii.gz",
+            "new_name": "case_38"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/C0697_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/C0697_wml.nii.gz",
+            "new_name": "case_39"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/Utrecht_33_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/Utrecht_33_wml.nii.gz",
+            "new_name": "case_40"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/1000236642-20040107_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/1000236642-20040107_wml.nii.gz",
+            "new_name": "case_41"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/150033715-20120718_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/150033715-20120718_wml.nii.gz",
+            "new_name": "case_42"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/3-0583-20110212_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/3-0583-20110212_wml.nii.gz",
+            "new_name": "case_43"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/3-0078-20101222_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/3-0078-20101222_wml.nii.gz",
+            "new_name": "case_44"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/009_S_0842_2011-10-24_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/009_S_0842_2011-10-24_wml.nii.gz",
+            "new_name": "case_45"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/4818825-20050622_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/4818825-20050622_wml.nii.gz",
+            "new_name": "case_46"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/1000146216-20050504_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/1000146216-20050504_wml.nii.gz",
+            "new_name": "case_47"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/1-1006-20110815_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/1-1006-20110815_wml.nii.gz",
+            "new_name": "case_48"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/Singapore_64_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/Singapore_64_wml.nii.gz",
+            "new_name": "case_49"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/Utrecht_49_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/Utrecht_49_wml.nii.gz",
+            "new_name": "case_50"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/ANC-11287284-20120926_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/ANC-11287284-20120926_wml.nii.gz",
+            "new_name": "case_51"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/0000870632_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/0000870632_wml.nii.gz",
+            "new_name": "case_52"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/0000815167_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/0000815167_wml.nii.gz",
+            "new_name": "case_53"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/BLSA_5972_06-0_10_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/BLSA_5972_06-0_10_wml.nii.gz",
+            "new_name": "case_54"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/100437_20170223_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/100437_20170223_wml.nii.gz",
+            "new_name": "case_55"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/4317699-20050906_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/4317699-20050906_wml.nii.gz",
+            "new_name": "case_56"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/BLSA_0649_06-0_10_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/BLSA_0649_06-0_10_wml.nii.gz",
+            "new_name": "case_57"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/11683120-20120621_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/11683120-20120621_wml.nii.gz",
+            "new_name": "case_58"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/0000860756_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/0000860756_wml.nii.gz",
+            "new_name": "case_59"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/Utrecht_8_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/Utrecht_8_wml.nii.gz",
+            "new_name": "case_60"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/C0617_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/C0617_wml.nii.gz",
+            "new_name": "case_61"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/122110_20170804_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/122110_20170804_wml.nii.gz",
+            "new_name": "case_62"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/1000233007-20040106_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/1000233007-20040106_wml.nii.gz",
+            "new_name": "case_63"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/Amsterdam_GE3T_126_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/Amsterdam_GE3T_126_wml.nii.gz",
+            "new_name": "case_64"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/3-0232-20110528_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/3-0232-20110528_wml.nii.gz",
+            "new_name": "case_65"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/4-0243-20110823_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/4-0243-20110823_wml.nii.gz",
+            "new_name": "case_66"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/Utrecht_17_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/Utrecht_17_wml.nii.gz",
+            "new_name": "case_67"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/150056615-20121119_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/150056615-20121119_wml.nii.gz",
+            "new_name": "case_68"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/C1171_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/C1171_wml.nii.gz",
+            "new_name": "case_69"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/11291-20110331_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/11291-20110331_wml.nii.gz",
+            "new_name": "case_70"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/0000871793_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/0000871793_wml.nii.gz",
+            "new_name": "case_71"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/1000218913-20041207_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/1000218913-20041207_wml.nii.gz",
+            "new_name": "case_72"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/C0950_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/C0950_wml.nii.gz",
+            "new_name": "case_73"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/Utrecht_25_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/Utrecht_25_wml.nii.gz",
+            "new_name": "case_74"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/117279_20120720_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/117279_20120720_wml.nii.gz",
+            "new_name": "case_75"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/Amsterdam_GE3T_101_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/Amsterdam_GE3T_101_wml.nii.gz",
+            "new_name": "case_76"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/117299_20161117_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/117299_20161117_wml.nii.gz",
+            "new_name": "case_77"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/131_S_0123_2012-03-16_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/131_S_0123_2012-03-16_wml.nii.gz",
+            "new_name": "case_78"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/10801-20110413_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/10801-20110413_wml.nii.gz",
+            "new_name": "case_79"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/4317868-20050315_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/4317868-20050315_wml.nii.gz",
+            "new_name": "case_80"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/Utrecht_39_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/Utrecht_39_wml.nii.gz",
+            "new_name": "case_81"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/019_S_4367_2011-11-30_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/019_S_4367_2011-11-30_wml.nii.gz",
+            "new_name": "case_82"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/3-1494-20110329_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/3-1494-20110329_wml.nii.gz",
+            "new_name": "case_83"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/10226605-20110706_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/10226605-20110706_wml.nii.gz",
+            "new_name": "case_84"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/0000903552_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/0000903552_wml.nii.gz",
+            "new_name": "case_85"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/2817791-20050516_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/2817791-20050516_wml.nii.gz",
+            "new_name": "case_86"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/Singapore_55_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/Singapore_55_wml.nii.gz",
+            "new_name": "case_87"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/101366_20161013_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/101366_20161013_wml.nii.gz",
+            "new_name": "case_88"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/103486_20100929_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/103486_20100929_wml.nii.gz",
+            "new_name": "case_89"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/053_S_0919_2013-01-04_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/053_S_0919_2013-01-04_wml.nii.gz",
+            "new_name": "case_90"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/Utrecht_0_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/Utrecht_0_wml.nii.gz",
+            "new_name": "case_91"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/150010815-20120620_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/150010815-20120620_wml.nii.gz",
+            "new_name": "case_92"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/150027115-20121116_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/150027115-20121116_wml.nii.gz",
+            "new_name": "case_93"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/2518272-20050324_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/2518272-20050324_wml.nii.gz",
+            "new_name": "case_94"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/4215786-20050714_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/4215786-20050714_wml.nii.gz",
+            "new_name": "case_95"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/Singapore_68_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/Singapore_68_wml.nii.gz",
+            "new_name": "case_96"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/1000425660-20040311_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/1000425660-20040311_wml.nii.gz",
+            "new_name": "case_97"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/0000816079_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/0000816079_wml.nii.gz",
+            "new_name": "case_98"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/1000148003-20040109_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/1000148003-20040109_wml.nii.gz",
+            "new_name": "case_99"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/C0669_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/C0669_wml.nii.gz",
+            "new_name": "case_100"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/1-1327-20110627_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/1-1327-20110627_wml.nii.gz",
+            "new_name": "case_101"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/068_S_2171_2011-12-20_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/068_S_2171_2011-12-20_wml.nii.gz",
+            "new_name": "case_102"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/2518931-20051213_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/2518931-20051213_wml.nii.gz",
+            "new_name": "case_103"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/C1161_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/C1161_wml.nii.gz",
+            "new_name": "case_104"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/0000816415_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/0000816415_wml.nii.gz",
+            "new_name": "case_105"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/141_S_2333_2012-04-28_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/141_S_2333_2012-04-28_wml.nii.gz",
+            "new_name": "case_106"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/1000143411-20040123_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/1000143411-20040123_wml.nii.gz",
+            "new_name": "case_107"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/120227_20150812_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/120227_20150812_wml.nii.gz",
+            "new_name": "case_108"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/C0681_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/C0681_wml.nii.gz",
+            "new_name": "case_109"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/Singapore_60_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/Singapore_60_wml.nii.gz",
+            "new_name": "case_110"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/Amsterdam_GE3T_113_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/Amsterdam_GE3T_113_wml.nii.gz",
+            "new_name": "case_111"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/140182214-20130501_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/140182214-20130501_wml.nii.gz",
+            "new_name": "case_112"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/C1053_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/C1053_wml.nii.gz",
+            "new_name": "case_113"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/073_S_5227_2013-06-17_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/073_S_5227_2013-06-17_wml.nii.gz",
+            "new_name": "case_114"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/Singapore_57_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/Singapore_57_wml.nii.gz",
+            "new_name": "case_115"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/Utrecht_4_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/Utrecht_4_wml.nii.gz",
+            "new_name": "case_116"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/027_S_5170_2013-05-23_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/027_S_5170_2013-05-23_wml.nii.gz",
+            "new_name": "case_117"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/11383917-20120409_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/11383917-20120409_wml.nii.gz",
+            "new_name": "case_118"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/Singapore_54_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/Singapore_54_wml.nii.gz",
+            "new_name": "case_119"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/3-1101-20110819_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/3-1101-20110819_wml.nii.gz",
+            "new_name": "case_120"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/BLSA_7841_01-0_10_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/BLSA_7841_01-0_10_wml.nii.gz",
+            "new_name": "case_121"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/3018365-20050823_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/3018365-20050823_wml.nii.gz",
+            "new_name": "case_122"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/100113_20160620_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/100113_20160620_wml.nii.gz",
+            "new_name": "case_123"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/0000816620_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/0000816620_wml.nii.gz",
+            "new_name": "case_124"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/4312978-20050707_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/4312978-20050707_wml.nii.gz",
+            "new_name": "case_125"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/Utrecht_29_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/Utrecht_29_wml.nii.gz",
+            "new_name": "case_126"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/Amsterdam_GE3T_116_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/Amsterdam_GE3T_116_wml.nii.gz",
+            "new_name": "case_127"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/140212714-20140305_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/140212714-20140305_wml.nii.gz",
+            "new_name": "case_128"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/11241-20110331_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/11241-20110331_wml.nii.gz",
+            "new_name": "case_129"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/Amsterdam_GE3T_102_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/Amsterdam_GE3T_102_wml.nii.gz",
+            "new_name": "case_130"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/C1203_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/C1203_wml.nii.gz",
+            "new_name": "case_131"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/118788_20140602_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/118788_20140602_wml.nii.gz",
+            "new_name": "case_132"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/118440_20161208_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/118440_20161208_wml.nii.gz",
+            "new_name": "case_133"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/Utrecht_6_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/Utrecht_6_wml.nii.gz",
+            "new_name": "case_134"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/Amsterdam_GE3T_107_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/Amsterdam_GE3T_107_wml.nii.gz",
+            "new_name": "case_135"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/ANC_12631965-20130405_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/ANC_12631965-20130405_wml.nii.gz",
+            "new_name": "case_136"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/Amsterdam_GE3T_105_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/Amsterdam_GE3T_105_wml.nii.gz",
+            "new_name": "case_137"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/Utrecht_23_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/Utrecht_23_wml.nii.gz",
+            "new_name": "case_138"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/1000146188-20040820_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/1000146188-20040820_wml.nii.gz",
+            "new_name": "case_139"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/Singapore_56_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/Singapore_56_wml.nii.gz",
+            "new_name": "case_140"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/BLSA_4666_01-0_10_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/BLSA_4666_01-0_10_wml.nii.gz",
+            "new_name": "case_141"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/Amsterdam_GE3T_137_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/Amsterdam_GE3T_137_wml.nii.gz",
+            "new_name": "case_142"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/150111815-20130820_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/150111815-20130820_wml.nii.gz",
+            "new_name": "case_143"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/0000839875_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/0000839875_wml.nii.gz",
+            "new_name": "case_144"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/118743_20170323_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/118743_20170323_wml.nii.gz",
+            "new_name": "case_145"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/Utrecht_35_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/Utrecht_35_wml.nii.gz",
+            "new_name": "case_146"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/150132815-20140422_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/150132815-20140422_wml.nii.gz",
+            "new_name": "case_147"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/041_S_4143_2011-07-28_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/041_S_4143_2011-07-28_wml.nii.gz",
+            "new_name": "case_148"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/ANC-11496606-20120606_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/ANC-11496606-20120606_wml.nii.gz",
+            "new_name": "case_149"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/BLSA_1843_04-0_10_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/BLSA_1843_04-0_10_wml.nii.gz",
+            "new_name": "case_150"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/1000335590-20050607_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/1000335590-20050607_wml.nii.gz",
+            "new_name": "case_151"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/Singapore_61_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/Singapore_61_wml.nii.gz",
+            "new_name": "case_152"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/C0875_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/C0875_wml.nii.gz",
+            "new_name": "case_153"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/4-0244-20110823_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/4-0244-20110823_wml.nii.gz",
+            "new_name": "case_154"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/027_S_5118_2013-03-29_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/027_S_5118_2013-03-29_wml.nii.gz",
+            "new_name": "case_155"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/4215195-20060310_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/4215195-20060310_wml.nii.gz",
+            "new_name": "case_156"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/Utrecht_31_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/Utrecht_31_wml.nii.gz",
+            "new_name": "case_157"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/4317911-20050601_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/4317911-20050601_wml.nii.gz",
+            "new_name": "case_158"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/120937_20160711_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/120937_20160711_wml.nii.gz",
+            "new_name": "case_159"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/130216413-20130222_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/130216413-20130222_wml.nii.gz",
+            "new_name": "case_160"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/130126213-20121130_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/130126213-20121130_wml.nii.gz",
+            "new_name": "case_161"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/C0735_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/C0735_wml.nii.gz",
+            "new_name": "case_162"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/Singapore_59_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/Singapore_59_wml.nii.gz",
+            "new_name": "case_163"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/0000853883_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/0000853883_wml.nii.gz",
+            "new_name": "case_164"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/BLSA_1653_09-0_10_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/BLSA_1653_09-0_10_wml.nii.gz",
+            "new_name": "case_165"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/BLSA_6191_04-0_10_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/BLSA_6191_04-0_10_wml.nii.gz",
+            "new_name": "case_166"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/Utrecht_11_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/Utrecht_11_wml.nii.gz",
+            "new_name": "case_167"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/C0734_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/C0734_wml.nii.gz",
+            "new_name": "case_168"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/4314777-20050330_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/4314777-20050330_wml.nii.gz",
+            "new_name": "case_169"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/BLSA_7830_01-0_10_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/BLSA_7830_01-0_10_wml.nii.gz",
+            "new_name": "case_170"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/0000816848_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/0000816848_wml.nii.gz",
+            "new_name": "case_171"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/137_S_4862_2013-07-22_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/137_S_4862_2013-07-22_wml.nii.gz",
+            "new_name": "case_172"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/022_S_4922_2012-09-25_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/022_S_4922_2012-09-25_wml.nii.gz",
+            "new_name": "case_173"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/Amsterdam_GE3T_144_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/Amsterdam_GE3T_144_wml.nii.gz",
+            "new_name": "case_174"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/2913891-20050303_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/2913891-20050303_wml.nii.gz",
+            "new_name": "case_175"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/112517_20101108_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/112517_20101108_wml.nii.gz",
+            "new_name": "case_176"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/ANC-12567930-20130401_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/ANC-12567930-20130401_wml.nii.gz",
+            "new_name": "case_177"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/Amsterdam_GE3T_106_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/Amsterdam_GE3T_106_wml.nii.gz",
+            "new_name": "case_178"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/ANC-11861401-6472-20120910_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/ANC-11861401-6472-20120910_wml.nii.gz",
+            "new_name": "case_179"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/Singapore_50_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/Singapore_50_wml.nii.gz",
+            "new_name": "case_180"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/119298_20160620_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/119298_20160620_wml.nii.gz",
+            "new_name": "case_181"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/0000815778_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/0000815778_wml.nii.gz",
+            "new_name": "case_182"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/ANC11945931-20130502_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/ANC11945931-20130502_wml.nii.gz",
+            "new_name": "case_183"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/1000445447-20041018_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/1000445447-20041018_wml.nii.gz",
+            "new_name": "case_184"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/130217213-20130723_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/130217213-20130723_wml.nii.gz",
+            "new_name": "case_185"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/BLSA_7675_01-0_10_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/BLSA_7675_01-0_10_wml.nii.gz",
+            "new_name": "case_186"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/Singapore_62_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/Singapore_62_wml.nii.gz",
+            "new_name": "case_187"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/C1121_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/C1121_wml.nii.gz",
+            "new_name": "case_188"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/1000337366-20041216_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/1000337366-20041216_wml.nii.gz",
+            "new_name": "case_189"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/4-1233-20110128_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/4-1233-20110128_wml.nii.gz",
+            "new_name": "case_190"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/121279_20161003_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/121279_20161003_wml.nii.gz",
+            "new_name": "case_191"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/Amsterdam_GE3T_115_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/Amsterdam_GE3T_115_wml.nii.gz",
+            "new_name": "case_192"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/4314748-20050407_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/4314748-20050407_wml.nii.gz",
+            "new_name": "case_193"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/140002414-20130607_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/140002414-20130607_wml.nii.gz",
+            "new_name": "case_194"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/130073413-20120309_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/130073413-20120309_wml.nii.gz",
+            "new_name": "case_195"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/120675_20161104_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/120675_20161104_wml.nii.gz",
+            "new_name": "case_196"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/30255-20101115_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/30255-20101115_wml.nii.gz",
+            "new_name": "case_197"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/Utrecht_2_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/Utrecht_2_wml.nii.gz",
+            "new_name": "case_198"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/Singapore_67_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/Singapore_67_wml.nii.gz",
+            "new_name": "case_199"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/119473_20170105_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/119473_20170105_wml.nii.gz",
+            "new_name": "case_200"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/Amsterdam_GE3T_103_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/Amsterdam_GE3T_103_wml.nii.gz",
+            "new_name": "case_201"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/BLSA_1210_17-0_10_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/BLSA_1210_17-0_10_wml.nii.gz",
+            "new_name": "case_202"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/ANC-12510904-20130311_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/ANC-12510904-20130311_wml.nii.gz",
+            "new_name": "case_203"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/140145514-20121218_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/140145514-20121218_wml.nii.gz",
+            "new_name": "case_204"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/BLSA_5848_06-0_10_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/BLSA_5848_06-0_10_wml.nii.gz",
+            "new_name": "case_205"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/2817761-20050503_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/2817761-20050503_wml.nii.gz",
+            "new_name": "case_206"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/Singapore_52_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/Singapore_52_wml.nii.gz",
+            "new_name": "case_207"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/121899_20170725_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/121899_20170725_wml.nii.gz",
+            "new_name": "case_208"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/114941_20100218_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/114941_20100218_wml.nii.gz",
+            "new_name": "case_209"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/027_S_5079_2013-02-12_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/027_S_5079_2013-02-12_wml.nii.gz",
+            "new_name": "case_210"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/Singapore_65_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/Singapore_65_wml.nii.gz",
+            "new_name": "case_211"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/3-0709-20110408_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/3-0709-20110408_wml.nii.gz",
+            "new_name": "case_212"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/Utrecht_19_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/Utrecht_19_wml.nii.gz",
+            "new_name": "case_213"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/118601_20170509_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/118601_20170509_wml.nii.gz",
+            "new_name": "case_214"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/C0910_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/C0910_wml.nii.gz",
+            "new_name": "case_215"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/C0653_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/C0653_wml.nii.gz",
+            "new_name": "case_216"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/Singapore_63_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/Singapore_63_wml.nii.gz",
+            "new_name": "case_217"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/029_S_4307_2011-11-17_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/029_S_4307_2011-11-17_wml.nii.gz",
+            "new_name": "case_218"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/3019212-20050811_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/3019212-20050811_wml.nii.gz",
+            "new_name": "case_219"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/119427_20170330_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/119427_20170330_wml.nii.gz",
+            "new_name": "case_220"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/0000881759_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/0000881759_wml.nii.gz",
+            "new_name": "case_221"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/117315_20150723_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/117315_20150723_wml.nii.gz",
+            "new_name": "case_222"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/BLSA_5123_12-0_10_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/BLSA_5123_12-0_10_wml.nii.gz",
+            "new_name": "case_223"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/107287_20161028_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/107287_20161028_wml.nii.gz",
+            "new_name": "case_224"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/Amsterdam_GE3T_114_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/Amsterdam_GE3T_114_wml.nii.gz",
+            "new_name": "case_225"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/5012946-20050504_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/5012946-20050504_wml.nii.gz",
+            "new_name": "case_226"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/ANC-12051535-3372-20130917_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/ANC-12051535-3372-20130917_wml.nii.gz",
+            "new_name": "case_227"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/10690-20110415_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/10690-20110415_wml.nii.gz",
+            "new_name": "case_228"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/100853_20110729_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/100853_20110729_wml.nii.gz",
+            "new_name": "case_229"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/0000883667_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/0000883667_wml.nii.gz",
+            "new_name": "case_230"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/117192_20120622_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/117192_20120622_wml.nii.gz",
+            "new_name": "case_231"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/BLSA_6023_10-0_10_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/BLSA_6023_10-0_10_wml.nii.gz",
+            "new_name": "case_232"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/anc125214343954-20130408_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/anc125214343954-20130408_wml.nii.gz",
+            "new_name": "case_233"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/Singapore_51_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/Singapore_51_wml.nii.gz",
+            "new_name": "case_234"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/1000346188-20040116_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/1000346188-20040116_wml.nii.gz",
+            "new_name": "case_235"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/068_S_2315_2012-04-23_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/068_S_2315_2012-04-23_wml.nii.gz",
+            "new_name": "case_236"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/1000144348-20051108_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/1000144348-20051108_wml.nii.gz",
+            "new_name": "case_237"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/1000144299-20040114_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/1000144299-20040114_wml.nii.gz",
+            "new_name": "case_238"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/Singapore_66_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/Singapore_66_wml.nii.gz",
+            "new_name": "case_239"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/ANC-12527203-20130416_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/ANC-12527203-20130416_wml.nii.gz",
+            "new_name": "case_240"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/118358_20131114_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/118358_20131114_wml.nii.gz",
+            "new_name": "case_241"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/2519061-20060130_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/2519061-20060130_wml.nii.gz",
+            "new_name": "case_242"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/1000159804-20030326_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/1000159804-20030326_wml.nii.gz",
+            "new_name": "case_243"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/C0952_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/C0952_wml.nii.gz",
+            "new_name": "case_244"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/Amsterdam_GE3T_112_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/Amsterdam_GE3T_112_wml.nii.gz",
+            "new_name": "case_245"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/Amsterdam_GE3T_109_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/Amsterdam_GE3T_109_wml.nii.gz",
+            "new_name": "case_246"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/3-0199-20110808_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/3-0199-20110808_wml.nii.gz",
+            "new_name": "case_247"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/0000839871_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/0000839871_wml.nii.gz",
+            "new_name": "case_248"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/11138602-20111228_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/11138602-20111228_wml.nii.gz",
+            "new_name": "case_249"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/072_S_2164_2011-12-05_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/072_S_2164_2011-12-05_wml.nii.gz",
+            "new_name": "case_250"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/Singapore_58_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/Singapore_58_wml.nii.gz",
+            "new_name": "case_251"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/003_S_4839_2012-07-24_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/003_S_4839_2012-07-24_wml.nii.gz",
+            "new_name": "case_252"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/1000341986-20021001_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/1000341986-20021001_wml.nii.gz",
+            "new_name": "case_253"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/ANC-12051454-3372-20130604_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/ANC-12051454-3372-20130604_wml.nii.gz",
+            "new_name": "case_254"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/118349_20170105_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/118349_20170105_wml.nii.gz",
+            "new_name": "case_255"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/ANC-12608475-20130401_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/ANC-12608475-20130401_wml.nii.gz",
+            "new_name": "case_256"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/Amsterdam_GE3T_104_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/Amsterdam_GE3T_104_wml.nii.gz",
+            "new_name": "case_257"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/113870_20160711_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/113870_20160711_wml.nii.gz",
+            "new_name": "case_258"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/2522031-20051219_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/2522031-20051219_wml.nii.gz",
+            "new_name": "case_259"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/11567643-20120612_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/11567643-20120612_wml.nii.gz",
+            "new_name": "case_260"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/100836_20170216_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/100836_20170216_wml.nii.gz",
+            "new_name": "case_261"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/Amsterdam_GE3T_108_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/Amsterdam_GE3T_108_wml.nii.gz",
+            "new_name": "case_262"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/1000365650-20040615_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/1000365650-20040615_wml.nii.gz",
+            "new_name": "case_263"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/BLSA_0749_18-0_10_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/BLSA_0749_18-0_10_wml.nii.gz",
+            "new_name": "case_264"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/119035_20161110_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/119035_20161110_wml.nii.gz",
+            "new_name": "case_265"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/120516_20160616_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/120516_20160616_wml.nii.gz",
+            "new_name": "case_266"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/Utrecht_41_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/Utrecht_41_wml.nii.gz",
+            "new_name": "case_267"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/Utrecht_37_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/Utrecht_37_wml.nii.gz",
+            "new_name": "case_268"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/4816765-20050823_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/4816765-20050823_wml.nii.gz",
+            "new_name": "case_269"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/C1066_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/C1066_wml.nii.gz",
+            "new_name": "case_270"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/BLSA_5486_09-0_10_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/BLSA_5486_09-0_10_wml.nii.gz",
+            "new_name": "case_271"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/0000835230_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/0000835230_wml.nii.gz",
+            "new_name": "case_272"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/130136613-20121119_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/130136613-20121119_wml.nii.gz",
+            "new_name": "case_273"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/BLSA_4888_01-0_10_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/BLSA_4888_01-0_10_wml.nii.gz",
+            "new_name": "case_274"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/1000165176-20040223_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/1000165176-20040223_wml.nii.gz",
+            "new_name": "case_275"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/1000341956-20021104_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/1000341956-20021104_wml.nii.gz",
+            "new_name": "case_276"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/Amsterdam_GE3T_100_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/Amsterdam_GE3T_100_wml.nii.gz",
+            "new_name": "case_277"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/150046515-20130918_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/150046515-20130918_wml.nii.gz",
+            "new_name": "case_278"
+        },
+        {
+            "fold": 0,
+            "image": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/images/119152_20161013_FL_LPS_dlicv.nii.gz",
+            "label": "/cbica/home/baikk/Projects/nnUnetv2_WMLS/Data/Vikas_280_ExtractedBrains/wml/119152_20161013_wml.nii.gz",
+            "new_name": "case_279"
+        }
+    ]
+}
