@@ -258,7 +258,7 @@ def main() -> None:
     model_folder = os.path.join(
         Path(__file__).parent,
         "nnunet_results",
-        "Dataset%s_Dataset%s_dlwmlsICVAll/nnUNetTrainer__nnUNetPlans__%c"
+        "Dataset%s_Dataset%s_dlwmlsICVAll/nnUNetTrainer__nnUNetPlans__%s"
         # "Dataset%s_Task%s_DLWMLSV2/nnUNetTrainer__nnUNetPlans__%s/"
         % (args.d, args.d, args.c),
     )

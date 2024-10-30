@@ -8,10 +8,6 @@ DLWMLS uses a trained [nnUNet](https://github.com/MIC-DKFZ/nnUNet) model to segm
 
 ### As a python package
 
-```bash
-pip install DLWMLS
-```
-
 ### Directly from this repository
 
 ```bash
@@ -25,7 +21,7 @@ Depending on your system configuration and supported CUDA version, you may need 
 
 ## Usage
 
-A pre-trained nnUNet model can be found at our [hugging face account](https://huggingface.co/nichart/DLWMLS/tree/main). Feel free to use it under the package's [license](LICENSE).
+A pre-trained nnUNet model can be found at our [HuggingFace account](https://huggingface.co/nichart/DLWMLS/tree/main). Feel free to use it under the package's [license](LICENSE).
 
 ### From command line
 ```bash
