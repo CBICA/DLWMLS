@@ -36,6 +36,7 @@ def rename_and_copy_files(src_folder: str, des_folder: str) -> Tuple[dict, dict]
         new_name = os.path.join(des_folder, rename_file)
         shutil.copy2(old_name, new_name)
         rename_dict[filename] = rename_file
-        rename_back_dict[rename_back] = "DLWMLS_mask_" + filename
+        rename_back_dict[rename_back] = filename.split(".nii")[0] + "_WMLS.nii.gz"
+        print("%s will be renamed to %s" % (old_name, filename.split(".nii")[0] + "_WMLS.nii.gz"))
 
     return rename_dict, rename_back_dict

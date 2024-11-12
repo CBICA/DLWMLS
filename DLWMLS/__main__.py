@@ -120,7 +120,7 @@ def main() -> None:
         "-d",
         type=str,
         required=False,
-        default="002",
+        default="003",
         help="[nnUnet Arg] Dataset with which you would like to predict. You can specify either dataset name or id",
     )
     parser.add_argument(
