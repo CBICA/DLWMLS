@@ -1,10 +1,10 @@
 import argparse
 import json
 import os
-from pathlib import Path
 import shutil
 import sys
 import warnings
+from pathlib import Path
 
 import torch
 
@@ -15,15 +15,16 @@ warnings.simplefilter(action="ignore", category=UserWarning)
 
 VERSION = 1.0
 
+
 def main() -> None:
-    prog="DLWMLS"
+    prog = "DLWMLS"
     parser = argparse.ArgumentParser(
         prog=prog,
         description="DLWMLS - MUlti-atlas region Segmentation utilizing Ensembles of registration algorithms and parameters.",
         usage="""
         DLWMLS v{VERSION}
         Segment White Matter Lesions from the ICV-segmented (see DLICV method), LPS oriented brain image (Nifti/.nii.gz format).
-        
+
         Required arguments:
             [-i, --in_dir]   The filepath of the input directory
             [-o, --out_dir]  The filepath of the output directory
@@ -36,8 +37,10 @@ def main() -> None:
                    -o       /path/to/output    \
                    -device  cpu|cuda|mps
 
-        """.format(VERSION=VERSION),
-        add_help=False
+        """.format(
+            VERSION=VERSION
+        ),
+        add_help=False,
     )
 
     # Required Arguments
@@ -53,7 +56,7 @@ def main() -> None:
         required=True,
         help="[REQUIRED] Output folder for the segmentation results in Nifti format (nii.gz).",
     )
-    
+
     # Optional Arguments
     parser.add_argument(
         "-device",
@@ -99,7 +102,7 @@ def main() -> None:
         action="store_true",
         required=False,
         default=False,
-        help="Set this flag to clear any cached models before running. This is recommended if a previous download failed."
+        help="Set this flag to clear any cached models before running. This is recommended if a previous download failed.",
     )
     parser.add_argument(
         "--disable_tta",
@@ -109,13 +112,6 @@ def main() -> None:
         help="[nnUnet Arg] Set this flag to disable test time data augmentation in the form of mirroring. "
         "Faster, but less accurate inference. Not recommended.",
     )
-    ### DEPRECIATED ####
-    # parser.add_argument(
-    #     "-m",
-    #     type=str,
-    #     required=True,
-    #     help="Model folder path. The model folder should be named nnunet_results.",
-    # )
     parser.add_argument(
         "-d",
         type=str,
@@ -208,25 +204,17 @@ def main() -> None:
         required=False,
         default=0,
         help="[nnUnet Arg] If multiple nnUNetv2_predict exist, which one is this? IDs start with 0 "
-        "can end with num_parts - 1. So when you submit 5 nnUNetv2_predict calls you need to set " 
+        "can end with num_parts - 1. So when you submit 5 nnUNetv2_predict calls you need to set "
         "-num_parts 5 and use -part_id 0, 1, 2, 3 and 4. Note: You are yourself responsible to make these run on separate GPUs! "
         "Use CUDA_VISIBLE_DEVICES.",
     )
-    
-
 
     args = parser.parse_args()
     args.f = [args.f]
 
     if args.clear_cache:
-        shutil.rmtree(os.path.join(
-            Path(__file__).parent,
-            "nnunet_results"
-        ))
-        shutil.rmtree(os.path.join(
-            Path(__file__).parent,
-            ".cache"
-        ))
+        shutil.rmtree(os.path.join(Path(__file__).parent, "nnunet_results"))
+        shutil.rmtree(os.path.join(Path(__file__).parent, ".cache"))
         if not args.i or not args.o:
             print("Cache cleared and missing either -i / -o. Exiting.")
             sys.exit(0)
@@ -263,7 +251,6 @@ def main() -> None:
         % (args.d, args.d, args.c),
     )
 
-
     # Check if model exists. If not exist, download using HuggingFace
     print(f"Using model folder: {model_folder}")
     if not os.path.exists(model_folder):
@@ -271,6 +258,7 @@ def main() -> None:
         print("DLWMLS model not found, downloading...")
 
         from huggingface_hub import snapshot_download
+
         local_src = Path(__file__).parent
         snapshot_download(repo_id="nichart/DLWMLS", local_dir=local_src)
 
@@ -292,6 +280,7 @@ def main() -> None:
 
     if args.device == "cpu":
         import multiprocessing
+
         # use half of the available threads in the system.
         torch.set_num_threads(multiprocessing.cpu_count() // 2)
         device = torch.device("cpu")
