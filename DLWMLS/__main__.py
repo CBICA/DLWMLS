@@ -116,7 +116,7 @@ def main() -> None:
         "-d",
         type=str,
         required=False,
-        default="002",
+        default="003",
         help="[nnUnet Arg] Dataset with which you would like to predict. You can specify either dataset name or id",
     )
     parser.add_argument(
@@ -246,9 +246,10 @@ def main() -> None:
     model_folder = os.path.join(
         Path(__file__).parent,
         "nnunet_results",
-        "Dataset%s_Dataset%s_dlwmlsICVAll/nnUNetTrainer__nnUNetPlans__%s"
+        "Dataset004_Dataset003_qcedCorrected/nnUNetTrainer__nnUNetPlans__3d_fullres"
+        # "Dataset%s_Dataset%s_dlwmlsICVAll/nnUNetTrainer__nnUNetPlans__%s"
         # "Dataset%s_Task%s_DLWMLSV2/nnUNetTrainer__nnUNetPlans__%s/"
-        % (args.d, args.d, args.c),
+        # % (args.d, args.d, args.c),
     )
 
     # Check if model exists. If not exist, download using HuggingFace
