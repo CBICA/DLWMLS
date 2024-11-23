@@ -1,5 +1,8 @@
 # DLWMLS - Deep Learning White Matter Lesion Segmentation
 
+![MacOS Build](https://github.com/CBICA/DLWMLS/actions/workflows/macos-build.yml/badge.svg)
+![Ubuntu Build](https://github.com/CBICA/DLWMLS/actions/workflows/ubuntu-build.yml/badge.svg)
+
 ## Overview
 
 DLWMLS uses a trained [nnUNet](https://github.com/MIC-DKFZ/nnUNet) model to segment White Matter Lesions (WML) from ICV-segmented (see DLICV method) and LPS oriented brain images (Nifti/.nii.gz format).
@@ -17,7 +20,7 @@ pip install -e .
 ```
 
 ### Installing PyTorch
-Depending on your system configuration and supported CUDA version, you may need to follow the [PyTorch Installation Instructions](https://pytorch.org/get-started/locally/). 
+Depending on your system configuration and supported CUDA version, you may need to follow the [PyTorch Installation Instructions](https://pytorch.org/get-started/locally/).
 
 ## Usage
 
@@ -34,7 +37,7 @@ DLWMLS -h
 ```
 
 ## \[Windows Users\] Troubleshooting model download failures
-Our model download process creates several deep directory structures. If you are on Windows and your model download process fails, it may be due to Windows file path limitations. 
+Our model download process creates several deep directory structures. If you are on Windows and your model download process fails, it may be due to Windows file path limitations.
 
 To enable long path support in Windows 10, version 1607, and later, the registry key `HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\FileSystem LongPathsEnabled (Type: REG_DWORD)` must exist and be set to 1.
 
