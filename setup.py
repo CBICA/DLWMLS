@@ -20,9 +20,9 @@ setup(
     download_url="https://github.com/CBICA/DLWMLS/",
     url="https://github.com/CBICA/DLWMLS/",
     packages=find_packages(exclude=["tests", ".github"]),
-    python_requires=">=3.8",
+    python_requires=">=3.9",
     install_requires=[
-        "torch>=2.2.1",
+        "torch<=2.2.1",
         "nnunetv2>=2.2.1",
         "argparse",
         "huggingface_hub",
