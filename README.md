@@ -31,6 +31,13 @@ A pre-trained nnUNet model can be found at our [HuggingFace account](https://hug
 ```bash
 DLWMLS -i "input_folder" -o "output_folder" -device cuda
 ```
+
+### In-code usage
+```python
+from DLWMLS import run_dlwmls_pipeline
+...
+run_dlwmls_pipeline(in_dir, out_dir, device)
+```
 For more details, please refer to
 
 ```bash

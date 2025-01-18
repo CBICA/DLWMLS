@@ -1,1 +1,1 @@
-from dlwmls_pipeline import run_dlwmls_pipeline
+from DLWMLS.dlwmls_pipeline import run_dlwmls_pipeline
