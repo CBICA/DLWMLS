@@ -2,7 +2,6 @@
 
 ![MacOS Build](https://github.com/CBICA/DLWMLS/actions/workflows/macos-build.yml/badge.svg)
 ![Ubuntu Build](https://github.com/CBICA/DLWMLS/actions/workflows/ubuntu-build.yml/badge.svg)
-![PyPI Stable](https://img.shields.io/pypi/v/DLWMLS)
 
 ## Overview
 
