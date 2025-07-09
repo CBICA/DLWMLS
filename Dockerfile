@@ -7,4 +7,5 @@ FROM pytorch/pytorch:${TORCH_VERSION}-cuda${CUDA_VERSION}-cudnn${CUDNN_VERSION}-
 WORKDIR /app
 COPY . /app/
 RUN pip install -e .
-ENTRYPOINT ["DLWMLS"]
+RUN DLWMLS -i /dummyinput -o /dummyoutput -device cpu
+ENTRYPOINT ["/usr/bin/python3 /app/scripts/wrapper.py"]
