@@ -52,6 +52,13 @@ def main() -> None:
 
     # Optional Arguments
     parser.add_argument(
+        "-os",
+        "--out_suffix",
+        type=str,
+        required=False,
+        help="[Recommended] Suffix of the output file (Default: _FL_LPS_WMLS.nii.gz).",
+    )
+    parser.add_argument(
         "-device",
         type=str,
         default="cuda",
@@ -226,6 +233,7 @@ def main() -> None:
         args.prev_stage_predictions,
         args.num_parts,
         args.part_id,
+        args.out_suffix
     )
 
 

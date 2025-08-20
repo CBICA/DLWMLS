@@ -37,6 +37,7 @@ def run_dlwmls_pipeline(
     prev_stage_predictions: Optional[str] = None,
     num_parts: int = 1,
     part_id: int = 0,
+    out_suffix: str = "_FL_LPS_WMLS.nii.gz"
 ) -> None:
     if clear_cache:
         shutil.rmtree(os.path.join(Path(__file__).parent, "nnunet_results"))
@@ -62,7 +63,7 @@ def run_dlwmls_pipeline(
     if os.path.isdir(in_dir):  # if args.i is a directory
         src_folder = in_dir
         prepare_data_folder(des_folder)
-        rename_dic, rename_back_dict = rename_and_copy_files(src_folder, des_folder)
+        rename_dic, rename_back_dict = rename_and_copy_files(src_folder, des_folder, suffix=out_suffix)
         datalist_file = os.path.join(des_folder, "renaming.json")
         with open(datalist_file, "w", encoding="utf-8") as _f:
             json.dump(rename_dic, _f, ensure_ascii=False, indent=4)
@@ -171,6 +172,6 @@ def run_dlwmls_pipeline(
             )
     # Remove the (temporary) des_folder directory
     if os.path.exists(des_folder):
-        shutil.rmtree(des_folder)
+        shutil.rmtree(des_folder, ignore_errors=True)
 
     logging.info("Inference Process Done!")

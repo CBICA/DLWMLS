@@ -12,7 +12,7 @@ def prepare_data_folder(folder_path: str) -> None:
         os.makedirs(folder_path)
 
 
-def rename_and_copy_files(src_folder: str, des_folder: str) -> Tuple[dict, dict]:
+def rename_and_copy_files(src_folder: str, des_folder: str, suffix="_DLWMLS.nii.gz") -> Tuple[dict, dict]:
     """
     Input:
          src_folder: a user input folder, name could be anything, will be convert into nnUnet
@@ -39,7 +39,7 @@ def rename_and_copy_files(src_folder: str, des_folder: str) -> Tuple[dict, dict]
         try:
             shutil.copy2(old_name, new_name)
             rename_dict[filename] = rename_file
-            rename_back_dict[rename_back] = filename.split(".nii")[0] + "_WMLS.nii.gz"
+            rename_back_dict[rename_back] = filename.split(".nii")[0] + suffix
         except Exception as e:
             print(f"Error copying file '{filename}' to '{new_name}': {e}")
 
