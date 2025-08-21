@@ -37,7 +37,7 @@ def run_dlwmls_pipeline(
     prev_stage_predictions: Optional[str] = None,
     num_parts: int = 1,
     part_id: int = 0,
-    out_suffix: str = "_FL_LPS_WMLS.nii.gz"
+    out_suffix: str = "_FL_LPS_DLWMLS.nii.gz"
 ) -> None:
     if clear_cache:
         shutil.rmtree(os.path.join(Path(__file__).parent, "nnunet_results"))
@@ -162,7 +162,7 @@ def run_dlwmls_pipeline(
 
     # After prediction, convert the image name back to original
     files_folder = out_dir
-
+    print(rename_back_dict)
     for filename in os.listdir(files_folder):
         if filename.endswith(".nii.gz"):
             original_name = rename_back_dict[filename]

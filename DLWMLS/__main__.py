@@ -56,7 +56,7 @@ def main() -> None:
         "--out_suffix",
         type=str,
         required=False,
-        help="[Recommended] Suffix of the output file (Default: _FL_LPS_WMLS.nii.gz).",
+        help="[Recommended] Suffix of the output file (Default: _FL_LPS_DLWMLS.nii.gz).",
     )
     parser.add_argument(
         "-device",
