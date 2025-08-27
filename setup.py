@@ -9,7 +9,7 @@ long_description = (this_directory / "README.md").read_text()
 
 setup(
     name="DLWMLS",
-    version="0.0.1",
+    version="0.1.0",
     description="DLWMLS - Deep Learning White Matter Lesion Segmentation",
     long_description=long_description,
     long_description_content_type="text/markdown",
