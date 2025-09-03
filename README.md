@@ -30,6 +30,7 @@ A pre-trained nnUNet model can be found at our [HuggingFace account](https://hug
 ```bash
 DLWMLS -i "input_folder" -o "output_folder" -device cuda
 ```
+The files in the input folder must have "_FL_LPS.nii.gz" as prefix.
 
 ### In-code usage
 ```python
