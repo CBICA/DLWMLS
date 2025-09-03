@@ -63,7 +63,7 @@ def run_dlwmls_pipeline(
     if os.path.isdir(in_dir):  # if args.i is a directory
         src_folder = in_dir
         prepare_data_folder(des_folder)
-        rename_dic, rename_back_dict = rename_and_copy_files(src_folder, des_folder, in_suffix = "_FL_LPS.nii.gz", out_suffix="_FL_LPS_DLWMLS.nii.gz")
+        rename_dic, rename_back_dict = rename_and_copy_files(src_folder, des_folder, in_suffix = "_FL_LPS.nii.gz", out_suffix=out_suffix)
         datalist_file = os.path.join(des_folder, "renaming.json")
         with open(datalist_file, "w", encoding="utf-8") as _f:
             json.dump(rename_dic, _f, ensure_ascii=False, indent=4)
